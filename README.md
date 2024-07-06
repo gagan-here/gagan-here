@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Logpoint** - 📫 How to reach me
+- 🔭 I’m currently working as **Spring Boot Developer** - 📫 How to reach me
 **chatwidmeah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
