@@ -8,14 +8,6 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=gagan-here"
-      alt="gagan-here"
-  /></a>
-</p>
-
 - 🔭 I’m currently working as a **Spring Boot Developer** - 📫 How to reach me
 **chatwidmeah@gmail.com**
 
